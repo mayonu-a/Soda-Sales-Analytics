@@ -19,7 +19,7 @@ Sales Data: The primary dataset used for this analysis is the SodaSpark_Data.xls
 ## Tools
 •	Power BI - Data Analysis and Data Visualisation
 
-## Data Cleaning
+## Data Cleaning 
 This data is a well cleaned data, it has not missing values and well formatted
 ##Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
