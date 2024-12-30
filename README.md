@@ -56,7 +56,7 @@ Key Insight: July and December represent peak sales opportunities for SodaSpark,
 The regional analysis highlights significant differences in revenue contributions: The West region leads, accounting for 28.98% of total revenue. Other high-performing regions include the Northeast (21.47%) and the Southeast (19.65%). Regions such as the South (15.82%) and MIdWest (14.08%) underperform in comparison. The state-level revenue map further illustrates a concentration of sales in West and eastern states, aligning with the strong performance of the West region.
 Key Insight: The West region is SodaSpark’s strongest market, generating nearly one-third of total revenue. Both the Northeast and Southeast regions also perform well, providing stable revenue streams. The South and Midwest regions underperform compared to others, representing opportunities for strategic growth. 
 
-# Summary of Key Metrics
+## Summary of Key Metrics
 To summarize, the key figures from the analysis include:
 •	Total Revenue: $8.17 million
 •	Total Expenses: $1.75 million
@@ -65,7 +65,7 @@ To summarize, the key figures from the analysis include:
 •	Top Beverage: Coca-Cola (4 million units sold)
 •	Top Region: West (28.98% of revenue)
 
-# Recommendations
+## Recommendations
 SodaSpark Beverages has demonstrated strong overall performance, driven by successful partnerships, best-selling products, and key regional markets. To build on this success and drive future growth, the following actions are recommended:
 •	Retail Strategy: Maintain strong relationships with top retailers like Sodapop and work to improve the performance of DreamCo.
 •	Product Focus: Prioritize high-performing beverages like Coca-Cola and Dasani Water while reducing costs for low-margin products.
