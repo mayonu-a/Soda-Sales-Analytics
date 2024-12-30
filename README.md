@@ -3,13 +3,13 @@
 
 
 ## Table of Contents
-•	[Project Overview](#Project-Overiew)
-•	[Data Sources](#Data-Sources)
-•	[Tools](#Tools)
-•	[Data Cleaning](#Data-Cleaning)
-•	[Exploratory Data Analysis](#Exploratory-Data-Analysis)
-•	[Results](#Results)
-•	[Recommendations](#Recommendations)
+- [Project Overview](#Project-Overiew)
+- [Data Sources](#Data-Sources)
+- [Tools](#Tools)
+- [Data Cleaning](#Data-Cleaning)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+- [Results](#Results)
+- [Recommendations](#Recommendations)
 
 ## Project Overview
 SodaSpark Beverages collaborates with a network of retailers across multiple regions and seeks to assess their sales performance. The aim is to identify top-performing retailers, optimize resource allocation, and track sales patterns over time. By analyzing these insights, SodaSpark Beverages plans to improve profitability, enhance distribution efficiency, and target future marketing efforts.
