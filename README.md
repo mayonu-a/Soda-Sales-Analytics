@@ -17,23 +17,23 @@ SodaSpark Beverages collaborates with a network of retailers across multiple reg
 Sales Data: The primary dataset used for this analysis is the SodaSpark_Data.xlsx,  created by 10Alytics, containing details information of each sale made by the company.
 
 ## Tools
-•	Power BI - Data Analysis and Data Visualisation
+Power BI - Data Analysis and Data Visualisation
 
 ## Data Cleaning 
 This data is a well cleaned data, it has not missing values and well formatted
 ##Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
-•	How much revenue did SodaSpark Beverages generate?
-•	What is the total expenses incurred in selling these beverages?
-•	How much profit was gotten from the beverages sold?
-•	How many units of beverages have been sold so far?
-•	How many Retailers does SodaSpark Beverages have?
-•	Which retailer generated the most revenue?
-•	What is the total unit sold for each beverage?
-•	What are the sales trends over time for these beverages?
-•	Top 5 states with the most revenue?
-•	Which regions contributed the most to the revenue?
-•	Compare the revenue, expenses and profit for each beverage brand
+- How much revenue did SodaSpark Beverages generate?
+- What is the total expenses incurred in selling these beverages?
+- How much profit was gotten from the beverages sold?
+- How many units of beverages have been sold so far?
+- How many Retailers does SodaSpark Beverages have?
+- Which retailer generated the most revenue?
+- What is the total unit sold for each beverage?
+- What are the sales trends over time for these beverages?
+- Top 5 states with the most revenue?
+- Which regions contributed the most to the revenue?
+- Compare the revenue, expenses and profit for each beverage brand
 
 ## Results and Key Insights
 ### Retailer Performance
@@ -42,9 +42,9 @@ Key Insight: The dominance of Sodapop and FizzySip highlights their value as str
 
 ### Beverage Brand Performance
 SodaSpark offers a range of beverages, but not all perform equally in the market. The analysis reveals:
-•	Coca-Cola is the best-selling beverage, with 4 million units sold.
-•	Dasani Water and Diet Coke are also strong performers, selling 2.9 million units each.
-•	Brands such as Sprite, Fanta, and Powerade sell fewer units, with Sprite at 2.6 million, Fanta at 2.1 million, and Powerade at 2.0 million.
+ - Coca-Cola is the best-selling beverage, with 4 million units sold.
+ - Dasani Water and Diet Coke are also strong performers, selling 2.9 million units each.
+ - Brands such as Sprite, Fanta, and Powerade sell fewer units, with Sprite at 2.6 million, Fanta at 2.1 million, and Powerade at 2.0 million.
 When comparing revenue, profit, and expenses across the beverage brands: Coca-Cola and Dasani Water contribute significantly to profit while maintaining low expenses. Powerade and Fanta, however, have lower profit margins due to higher relative expenses.
 Key Insight: Beverages like Coca-Cola and Dasani Water are driving sales and profits for SodaSpark. Lower-performing beverages, particularly Powerade and Fanta, may require cost optimization.
 
@@ -58,19 +58,19 @@ Key Insight: The West region is SodaSpark’s strongest market, generating nearl
 
 ## Summary of Key Metrics
 To summarize, the key figures from the analysis include:
-•	Total Revenue: $8.17 million
-•	Total Expenses: $1.75 million
-•	Total Profit: $6.41 million
-•	Top Retailer: Sodapop ($4.4 million in revenue)
-•	Top Beverage: Coca-Cola (4 million units sold)
-•	Top Region: West (28.98% of revenue)
+- Total Revenue: $8.17 million
+- Total Expenses: $1.75 million
+- Total Profit: $6.41 million
+- Top Retailer: Sodapop ($4.4 million in revenue)
+- Top Beverage: Coca-Cola (4 million units sold)
+- Top Region: West (28.98% of revenue)
 
 ## Recommendations
 SodaSpark Beverages has demonstrated strong overall performance, driven by successful partnerships, best-selling products, and key regional markets. To build on this success and drive future growth, the following actions are recommended:
-•	Retail Strategy: Maintain strong relationships with top retailers like Sodapop and work to improve the performance of DreamCo.
-•	Product Focus: Prioritize high-performing beverages like Coca-Cola and Dasani Water while reducing costs for low-margin products.
-•	Seasonal Planning: Prepare for peak demand in June and December with targeted campaigns and sufficient inventory.
-•	Regional Growth: Expand efforts in underperforming regions (South and Midwest) while sustaining success in the West.
-•	Expense Management: Identify opportunities to control costs, particularly during high-demand months, to maximize profit margins.
+-	Retail Strategy: Maintain strong relationships with top retailers like Sodapop and work to improve the performance of DreamCo.
+- Product Focus: Prioritize high-performing beverages like Coca-Cola and Dasani Water while reducing costs for low-margin products.
+-	Seasonal Planning: Prepare for peak demand in June and December with targeted campaigns and sufficient inventory.
+-	Regional Growth: Expand efforts in underperforming regions (South and Midwest) while sustaining success in the West.
+-	Expense Management: Identify opportunities to control costs, particularly during high-demand months, to maximize profit margins.
 
 
