@@ -13,7 +13,8 @@
 
 ## Project Overview
 SodaSpark Beverages collaborates with a network of retailers across multiple regions and seeks to assess their sales performance. The aim is to identify top-performing retailers, optimize resource allocation, and track sales patterns over time. By analyzing these insights, SodaSpark Beverages plans to improve profitability, enhance distribution efficiency, and target future marketing efforts.
-##Data Sources
+
+## Data Sources
 Sales Data: The primary dataset used for this analysis is the SodaSpark_Data.xlsx,  created by 10Alytics, containing details information of each sale made by the company.
 
 ## Tools
@@ -21,7 +22,8 @@ Power BI - Data Analysis and Data Visualisation
 
 ## Data Cleaning 
 This data is a well cleaned data, it has not missing values and well formatted
-##Exploratory Data Analysis
+
+## Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
 - How much revenue did SodaSpark Beverages generate?
 - What is the total expenses incurred in selling these beverages?
@@ -35,7 +37,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Which regions contributed the most to the revenue?
 - Compare the revenue, expenses and profit for each beverage brand
 
-## Results and Key Insights
+## Results 
 ### Retailer Performance
 Retailers play a significant role in driving sales revenue for SodaSpark. The analysis reveals that Sodapop is the clear leader among the company’s retail partners, generating a substantial $4.4 million in revenue. This figure accounts for more than half of the company’s total revenue, emphasizing Sodapop’s importance as a partner. The second-best performer is FizzySip, contributing $2.1 million, followed by BevCo with $1.3 million. In contrast, DreamCo significantly lags behind, producing only $0.4 million in revenue.
 Key Insight: The dominance of Sodapop and FizzySip highlights their value as strategic partners. However, the underperformance of DreamCo raises concerns that warrant further investigation.
